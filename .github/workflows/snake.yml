@@ -24,7 +24,11 @@ jobs:
 
       - name: slow-down-snake
         run: |
-          sed -i -E 's/[0-9]+ms/120000ms/g' dist/*.svg
+          for file in dist/*.svg; do
+            if [ -f "$file" ]; then
+              sed -E 's/[0-9]+ms/120000ms/g' "$file" > "${file}.tmp" && mv "${file}.tmp" "$file"
+            fi
+          done
 
       - name: push-to-output
         uses: crazy-max/ghaction-github-pages@v4
