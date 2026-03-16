@@ -163,7 +163,7 @@
 # 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=MHassan-Tariq&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=MHassan-Tariq&label=Profile%20views&color=FFD700&style=flat" />
 </p>
 
 ---
