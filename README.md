@@ -1,7 +1,5 @@
-<!-- PREMIUM BANNER -->
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Muhammad%20Hassan%20Tariq&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="./banner.png" alt="Profile Banner" width="100%">
 </p>
 
 <h3 align="center">Full Stack Developer • Software Engineer • System Builder</h3>
