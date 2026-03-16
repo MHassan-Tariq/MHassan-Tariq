@@ -169,9 +169,9 @@
 ---
 
 <p align="center">
-⭐ Always Learning • Always Building • Always Improving
+⭐ Always Learning • Always Building • Always Improving ⭐
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffda00,50:ccad00,100:7a6700&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFEA00,50:FFD700,100:FFC300&height=120&section=footer"/>
 </p>
