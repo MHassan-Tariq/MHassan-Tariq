@@ -42,31 +42,49 @@
 ### 💻 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind"/>
+<img title="React" alt="React" src="https://skillicons.dev/icons?i=react"/>
+<img title="Next.js" alt="Next.js" src="https://skillicons.dev/icons?i=nextjs"/>
+<img title="TypeScript" alt="TypeScript" src="https://skillicons.dev/icons?i=ts"/>
+<img title="JavaScript" alt="JavaScript" src="https://skillicons.dev/icons?i=js"/>
+<img title="HTML5" alt="HTML5" src="https://skillicons.dev/icons?i=html"/>
+<img title="CSS3" alt="CSS3" src="https://skillicons.dev/icons?i=css"/>
+<img title="Tailwind CSS" alt="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind"/>
 </p>
 
 ### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+<img title="Node.js" alt="Node.js" src="https://skillicons.dev/icons?i=nodejs"/>
+<img title="Express.js" alt="Express.js" src="https://skillicons.dev/icons?i=express"/>
 </p>
 
 ### 🗄 Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis"/>
+<img title="PostgreSQL" alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgres"/>
+<img title="MongoDB" alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb"/>
+<img title="MySQL" alt="MySQL" src="https://skillicons.dev/icons?i=mysql"/>
+<img title="Redis" alt="Redis" src="https://skillicons.dev/icons?i=redis"/>
 </p>
 
 ### 🔧 Dev Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,githubactions,vscode,linux"/>
+<img title="Git" alt="Git" src="https://skillicons.dev/icons?i=git"/>
+<img title="GitHub" alt="GitHub" src="https://skillicons.dev/icons?i=github"/>
+<img title="Docker" alt="Docker" src="https://skillicons.dev/icons?i=docker"/>
+<img title="Postman" alt="Postman" src="https://skillicons.dev/icons?i=postman"/>
+<img title="GitHub Actions" alt="GitHub Actions" src="https://skillicons.dev/icons?i=githubactions"/>
+<img title="VS Code" alt="VS Code" src="https://skillicons.dev/icons?i=vscode"/>
+<img title="Linux" alt="Linux" src="https://skillicons.dev/icons?i=linux"/>
 </p>
 
 ### 🎨 Design
 
 <p>
-<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator"/>
+<img title="Figma" alt="Figma" src="https://skillicons.dev/icons?i=figma"/>
+<img title="Photoshop" alt="Photoshop" src="https://skillicons.dev/icons?i=photoshop"/>
+<img title="Illustrator" alt="Illustrator" src="https://skillicons.dev/icons?i=illustrator"/>
 </p>
 
 ---
