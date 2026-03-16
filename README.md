@@ -130,8 +130,8 @@
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 
-<a href="https://mhassan-tariq.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/>
+<a href="https://mhassan-tariq.github.io/portfolio-website/">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </p>
