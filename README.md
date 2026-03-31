@@ -100,18 +100,16 @@
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MHassan-Tariq&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MHassan-Tariq&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHassan-Tariq&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHassan-Tariq&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=MHassan-Tariq&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=MHassan-Tariq&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -119,7 +117,7 @@
 # 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MHassan-Tariq&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MHassan-Tariq&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
 </p>
 
 ---
