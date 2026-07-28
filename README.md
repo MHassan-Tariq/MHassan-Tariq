@@ -91,50 +91,31 @@
 
 # 📦 Featured Projects
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="left" width="30%">Project</th>
-      <th align="left" width="50%">Description</th>
-      <th align="left" width="20%">Tech</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>🚀 <b>Web Applications</b></td>
-      <td>Modern full-stack web systems</td>
-      <td><code>Next.js</code>, <code>Node.js</code></td>
-    </tr>
-    <tr>
-      <td>📊 <b>Admin Dashboards</b></td>
-      <td>Analytics and management dashboards</td>
-      <td><code>React</code>, <code>Tailwind</code></td>
-    </tr>
-    <tr>
-      <td>🔐 <b>Authentication Systems</b></td>
-      <td>Secure login and RBAC implementations</td>
-      <td><code>JWT</code>, <code>Node.js</code></td>
-    </tr>
-    <tr>
-      <td>🧩 <b>REST APIs</b></td>
-      <td>Scalable backend services</td>
-      <td><code>Express</code>, <code>Prisma</code></td>
-    </tr>
-  </tbody>
-</table>
+<div align="center">
+
+| Project | Description | Tech |
+| :-- | :-- | :-- |
+| 🚀 **Web Applications** | Modern full-stack web systems | `Next.js`, `Node.js` |
+| 📊 **Admin Dashboards** | Analytics and management dashboards | `React`, `Tailwind` |
+| 🔐 **Authentication Systems** | Secure login and RBAC implementations | `JWT`, `Node.js` |
+| 🧩 **REST APIs** | Scalable backend services | `Express`, `Prisma` |
+
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MHassan-Tariq&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MHassan-Tariq&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MHassan-Tariq&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=MHassan-Tariq&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MHassan-Tariq&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MHassan-Tariq&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
@@ -147,91 +128,34 @@
   </a>
 </p>
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="center" width="10%">Trophy</th>
-      <th align="left" width="65%">Achievement / Certificate</th>
-      <th align="center" width="25%">View Achievement</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">🥇</td>
-      <td><b>1st Position in Graphic Designing</b></td>
-      <td align="center"><a href="https://github.com/MHassan-Tariq/My-Achievements/blob/main/first%20postion%20in%20graphic%20desiging%20hassan.png"><img src="https://img.shields.io/badge/View-Trophy-FFD700?style=flat-square&logo=github" alt="View Trophy"/></a></td>
-    </tr>
-    <tr>
-      <td align="center">🏆</td>
-      <td><b>Web Development Certificate (Edify)</b></td>
-      <td align="center"><a href="https://github.com/MHassan-Tariq/My-Achievements/blob/main/web%20development%20certificate%20edify.png"><img src="https://img.shields.io/badge/View-Certificate-2ea44f?style=flat-square&logo=github" alt="View Certificate"/></a></td>
-    </tr>
-    <tr>
-      <td align="center">🏆</td>
-      <td><b>App Development Certificate</b></td>
-      <td align="center"><a href="https://github.com/MHassan-Tariq/My-Achievements/blob/main/app%20development.png"><img src="https://img.shields.io/badge/View-Certificate-2ea44f?style=flat-square&logo=github" alt="View Certificate"/></a></td>
-    </tr>
-    <tr>
-      <td align="center">🏆</td>
-      <td><b>Graphic Designing Certificate (Edify)</b></td>
-      <td align="center"><a href="https://github.com/MHassan-Tariq/My-Achievements/blob/main/hassan%20graphic%20designing%20cerificate%20edify.png"><img src="https://img.shields.io/badge/View-Certificate-2ea44f?style=flat-square&logo=github" alt="View Certificate"/></a></td>
-    </tr>
-    <tr>
-      <td align="center">🏆</td>
-      <td><b>Video Editing Certificate (Edify)</b></td>
-      <td align="center"><a href="https://github.com/MHassan-Tariq/My-Achievements/blob/main/hassan%20video%20editing%20cerificate%20edify.png"><img src="https://img.shields.io/badge/View-Certificate-2ea44f?style=flat-square&logo=github" alt="View Certificate"/></a></td>
-    </tr>
-    <tr>
-      <td align="center">🏅</td>
-      <td><b>NUM Logic Competition</b></td>
-      <td align="center"><a href="https://github.com/MHassan-Tariq/My-Achievements/blob/main/num%20logic%20comition.png"><img src="https://img.shields.io/badge/View-Certificate-2ea44f?style=flat-square&logo=github" alt="View Certificate"/></a></td>
-    </tr>
-    <tr>
-      <td align="center">🎓</td>
-      <td><b>Spoken English Certificate</b></td>
-      <td align="center"><a href="https://github.com/MHassan-Tariq/My-Achievements/blob/main/spoken%20english%20certificate.png"><img src="https://img.shields.io/badge/View-Certificate-2ea44f?style=flat-square&logo=github" alt="View Certificate"/></a></td>
-    </tr>
-    <tr>
-      <td align="center">🎨</td>
-      <td><b>Graphic Design Certificate</b></td>
-      <td align="center"><a href="https://github.com/MHassan-Tariq/My-Achievements/blob/main/graphic%20certificate%201.png"><img src="https://img.shields.io/badge/View-Certificate-2ea44f?style=flat-square&logo=github" alt="View Certificate"/></a></td>
-    </tr>
-    <tr>
-      <td align="center">🎖️</td>
-      <td><b>Teaching Certificate 1</b></td>
-      <td align="center"><a href="https://github.com/MHassan-Tariq/My-Achievements/blob/main/teacher%201.png"><img src="https://img.shields.io/badge/View-Certificate-2ea44f?style=flat-square&logo=github" alt="View Certificate"/></a></td>
-    </tr>
-    <tr>
-      <td align="center">🎖️</td>
-      <td><b>Teaching Certificate 2</b></td>
-      <td align="center"><a href="https://github.com/MHassan-Tariq/My-Achievements/blob/main/teaching%202.png"><img src="https://img.shields.io/badge/View-Certificate-2ea44f?style=flat-square&logo=github" alt="View Certificate"/></a></td>
-    </tr>
-    <tr>
-      <td align="center">📄</td>
-      <td><b>Curriculum Vitae (Page 1)</b></td>
-      <td align="center"><a href="https://github.com/MHassan-Tariq/My-Achievements/blob/main/cv%201.png"><img src="https://img.shields.io/badge/View-CV%20P1-000000?style=flat-square&logo=github" alt="View CV Page 1"/></a></td>
-    </tr>
-    <tr>
-      <td align="center">📄</td>
-      <td><b>Curriculum Vitae (Page 2)</b></td>
-      <td align="center"><a href="https://github.com/MHassan-Tariq/My-Achievements/blob/main/cv%202.png"><img src="https://img.shields.io/badge/View-CV%20P2-000000?style=flat-square&logo=github" alt="View CV Page 2"/></a></td>
-    </tr>
-  </tbody>
-</table>
+<div align="center">
+
+| Trophy | Achievement / Certificate | View Achievement |
+| :-: | :-- | :-: |
+| 🥇 | **1st Position in Graphic Designing** | [<img src="https://img.shields.io/badge/View-Trophy-FFD700?style=flat-square&logo=github">](https://github.com/MHassan-Tariq/My-Achievements/blob/main/first%20postion%20in%20graphic%20desiging%20hassan.png) |
+| 🏆 | **Web Development Certificate (Edify)** | [<img src="https://img.shields.io/badge/View-Certificate-2ea44f?style=flat-square&logo=github">](https://github.com/MHassan-Tariq/My-Achievements/blob/main/web%20development%20certificate%20edify.png) |
+| 🏆 | **App Development Certificate** | [<img src="https://img.shields.io/badge/View-Certificate-2ea44f?style=flat-square&logo=github">](https://github.com/MHassan-Tariq/My-Achievements/blob/main/app%20development.png) |
+| 🏆 | **Graphic Designing Certificate (Edify)** | [<img src="https://img.shields.io/badge/View-Certificate-2ea44f?style=flat-square&logo=github">](https://github.com/MHassan-Tariq/My-Achievements/blob/main/hassan%20graphic%20designing%20cerificate%20edify.png) |
+| 🏆 | **Video Editing Certificate (Edify)** | [<img src="https://img.shields.io/badge/View-Certificate-2ea44f?style=flat-square&logo=github">](https://github.com/MHassan-Tariq/My-Achievements/blob/main/hassan%20video%20editing%20cerificate%20edify.png) |
+| 🏅 | **NUM Logic Competition** | [<img src="https://img.shields.io/badge/View-Certificate-2ea44f?style=flat-square&logo=github">](https://github.com/MHassan-Tariq/My-Achievements/blob/main/num%20logic%20comition.png) |
+| 🎓 | **Spoken English Certificate** | [<img src="https://img.shields.io/badge/View-Certificate-2ea44f?style=flat-square&logo=github">](https://github.com/MHassan-Tariq/My-Achievements/blob/main/spoken%20english%20certificate.png) |
+| 🎨 | **Graphic Design Certificate** | [<img src="https://img.shields.io/badge/View-Certificate-2ea44f?style=flat-square&logo=github">](https://github.com/MHassan-Tariq/My-Achievements/blob/main/graphic%20certificate%201.png) |
+| 🎖️ | **Teaching Certificate 1** | [<img src="https://img.shields.io/badge/View-Certificate-2ea44f?style=flat-square&logo=github">](https://github.com/MHassan-Tariq/My-Achievements/blob/main/teacher%201.png) |
+| 🎖️ | **Teaching Certificate 2** | [<img src="https://img.shields.io/badge/View-Certificate-2ea44f?style=flat-square&logo=github">](https://github.com/MHassan-Tariq/My-Achievements/blob/main/teaching%202.png) |
+| 📄 | **Curriculum Vitae (Page 1)** | [<img src="https://img.shields.io/badge/View-CV%20P1-000000?style=flat-square&logo=github">](https://github.com/MHassan-Tariq/My-Achievements/blob/main/cv%201.png) |
+| 📄 | **Curriculum Vitae (Page 2)** | [<img src="https://img.shields.io/badge/View-CV%20P2-000000?style=flat-square&logo=github">](https://github.com/MHassan-Tariq/My-Achievements/blob/main/cv%202.png) |
+
+</div>
 
 ---
 
 # 🟩 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/MHassan-Tariq" alt="MHassan-Tariq's GitHub Contribution Graph" />
-</p>
-
-<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MHassan-Tariq/MHassan-Tariq/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MHassan-Tariq/MHassan-Tariq/output/github-contribution-grid-snake.svg">
-    <img width="100%" alt="github contribution grid snake" src="https://raw.githubusercontent.com/MHassan-Tariq/MHassan-Tariq/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MHassan-Tariq&theme=github-dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MHassan-Tariq&theme=github-compact&hide_border=true">
+    <img width="100%" alt="GitHub Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MHassan-Tariq&theme=github-dark&hide_border=true">
   </picture>
 </p>
 
