@@ -114,10 +114,31 @@
 
 ---
 
-# 🏆 Achievements
+# 🏆 Achievements & Certifications
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MHassan-Tariq&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+  <a href="https://github.com/MHassan-Tariq/My-Achievements">
+    <img src="https://img.shields.io/badge/Explore_All_Achievements-My--Achievements_Repo-000000?style=for-the-badge&logo=github&logoColor=white" alt="My Achievements Repository" />
+  </a>
+</p>
+
+<p align="center">
+
+| Trophy | Achievement / Certificate | View Achievement |
+| :-: | :-- | :-: |
+| 🥇 | **1st Position in Graphic Designing** | [<img src="https://img.shields.io/badge/View-Trophy-FFD700?style=flat-square&logo=github">](https://github.com/MHassan-Tariq/My-Achievements/blob/main/first%20postion%20in%20graphic%20desiging%20hassan.png) |
+| 🏆 | **Web Development Certificate (Edify)** | [<img src="https://img.shields.io/badge/View-Certificate-2ea44f?style=flat-square&logo=github">](https://github.com/MHassan-Tariq/My-Achievements/blob/main/web%20development%20certificate%20edify.png) |
+| 🏆 | **App Development Certificate** | [<img src="https://img.shields.io/badge/View-Certificate-2ea44f?style=flat-square&logo=github">](https://github.com/MHassan-Tariq/My-Achievements/blob/main/app%20development.png) |
+| 🏆 | **Graphic Designing Certificate (Edify)** | [<img src="https://img.shields.io/badge/View-Certificate-2ea44f?style=flat-square&logo=github">](https://github.com/MHassan-Tariq/My-Achievements/blob/main/hassan%20graphic%20designing%20cerificate%20edify.png) |
+| 🏆 | **Video Editing Certificate (Edify)** | [<img src="https://img.shields.io/badge/View-Certificate-2ea44f?style=flat-square&logo=github">](https://github.com/MHassan-Tariq/My-Achievements/blob/main/hassan%20video%20editing%20cerificate%20edify.png) |
+| 🏅 | **NUM Logic Competition** | [<img src="https://img.shields.io/badge/View-Certificate-2ea44f?style=flat-square&logo=github">](https://github.com/MHassan-Tariq/My-Achievements/blob/main/num%20logic%20comition.png) |
+| 🎓 | **Spoken English Certificate** | [<img src="https://img.shields.io/badge/View-Certificate-2ea44f?style=flat-square&logo=github">](https://github.com/MHassan-Tariq/My-Achievements/blob/main/spoken%20english%20certificate.png) |
+| 🎨 | **Graphic Design Certificate** | [<img src="https://img.shields.io/badge/View-Certificate-2ea44f?style=flat-square&logo=github">](https://github.com/MHassan-Tariq/My-Achievements/blob/main/graphic%20certificate%201.png) |
+| 🎖️ | **Teaching Certificate 1** | [<img src="https://img.shields.io/badge/View-Certificate-2ea44f?style=flat-square&logo=github">](https://github.com/MHassan-Tariq/My-Achievements/blob/main/teacher%201.png) |
+| 🎖️ | **Teaching Certificate 2** | [<img src="https://img.shields.io/badge/View-Certificate-2ea44f?style=flat-square&logo=github">](https://github.com/MHassan-Tariq/My-Achievements/blob/main/teaching%202.png) |
+| 📄 | **Curriculum Vitae (Page 1)** | [<img src="https://img.shields.io/badge/View-CV%20P1-000000?style=flat-square&logo=github">](https://github.com/MHassan-Tariq/My-Achievements/blob/main/cv%201.png) |
+| 📄 | **Curriculum Vitae (Page 2)** | [<img src="https://img.shields.io/badge/View-CV%20P2-000000?style=flat-square&logo=github">](https://github.com/MHassan-Tariq/My-Achievements/blob/main/cv%202.png) |
+
 </p>
 
 ---
