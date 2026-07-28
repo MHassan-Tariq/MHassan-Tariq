@@ -152,15 +152,7 @@
 # 🟩 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/MHassan-Tariq" alt="MHassan-Tariq's GitHub Contribution Graph" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MHassan-Tariq&theme=github-dark&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MHassan-Tariq&theme=github-compact&hide_border=true">
-    <img width="100%" alt="GitHub Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MHassan-Tariq&theme=github-dark&hide_border=true">
-  </picture>
+  <img width="100%" alt="GitHub Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MHassan-Tariq&theme=github-dark&hide_border=true">
 </p>
 
 ---
