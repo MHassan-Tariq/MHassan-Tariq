@@ -107,15 +107,15 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="495" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MHassan-Tariq&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MHassan-Tariq&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img width="495" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MHassan-Tariq&theme=tokyonight&hide_border=true&card_width=495" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MHassan-Tariq&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="495" src="https://streak-stats.demolab.com?user=MHassan-Tariq&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=MHassan-Tariq&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
@@ -149,14 +149,14 @@
 
 ---
 
-# 🟨 Contribution Graph
+# 🟩 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/FFD700/MHassan-Tariq" alt="MHassan-Tariq's GitHub Contribution Grid" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MHassan-Tariq&color=FFD700&line=FFD700&point=FFD700&area=true&hide_border=true" alt="MHassan-Tariq's Contribution Line Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MHassan-Tariq&theme=github-dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MHassan-Tariq&theme=github-compact&hide_border=true">
+    <img width="100%" alt="GitHub Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MHassan-Tariq&theme=github-dark&hide_border=true">
+  </picture>
 </p>
 
 ---
