@@ -107,15 +107,15 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MHassan-Tariq&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="495" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MHassan-Tariq&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MHassan-Tariq&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="495" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MHassan-Tariq&theme=tokyonight&hide_border=true&card_width=495" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MHassan-Tariq&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img width="495" src="https://streak-stats.demolab.com?user=MHassan-Tariq&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
